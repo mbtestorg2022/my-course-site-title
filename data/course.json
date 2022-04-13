@@ -1,0 +1,28 @@
+{
+  "term": "",
+  "year": "",
+  "level": [],
+  "topics": [],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [],
+    "website": "my-course-site-title"
+  },
+  "course_image": {
+    "content": "",
+    "website": "my-course-site-title"
+  },
+  "course_title": "My Course New Site Title",
+  "course_description": "",
+  "department_numbers": [
+    "2"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "2.2.2.2",
+  "course_image_thumbnail": {
+    "content": "",
+    "website": "my-course-site-title"
+  },
+  "learning_resource_types": [],
+  "site_uid": "587ba7ef-1951-4426-997d-0eef139a9e7d"
+}
